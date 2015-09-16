@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataClouds>
+  <LicenseSerial>DC0LIC-00-201509030005</LicenseSerial>
+  <Publisher>Hunan DataCloudsTechnologies Co., Ltd.</Publisher>
+  <AnnounceTime>2015-09-03 01:15:08</AnnounceTime>
+  <Custom>l llll</Custom>
+  <Sign>pYYwicXS8g6//xQ+oubulTukaL6ZXIwp0aS6ZVCG0xIryOmHl5wLbgrF/Lx1rs/1ZGSwqaWDa+VSBiju2hTqLrpZMZcbAdGCHUI62yVyd2l9F89TQJXyxOZ6DfW/Q0B/PxLwPW/tebL9Y7doxQvirJq13/bkx0QylopObbq41Vc=</Sign>
+  <Product>Sapphire 2000</Product>
+  <DFP>
+    <CDFP>xxxxxxxxxxxxx</CDFP>
+    <SSDFP>xxxxxxxxxxxxx</SSDFP>
+    <SSDFP>xxxxxxxxxxxxx</SSDFP>
+  </DFP>
+  <Version>1.1</Version>
+  <Supplement>
+    <ServiceTime>730</ServiceTime>
+  </Supplement>
+  <Feature>
+    <Name>Base</Name>
+    <DFP>*</DFP>
+    <Attribution>
+      <Time>300</Time>
+    </Attribution>
+    <Comment>*</Comment>
+    <Sign>Pksn1SWSheLOgWlAATNi/eYx/Sy2XOhV2X27cGeviY71qXo819x2tNqJd49HQHzslocvryAAneIkp4EvjIujVpQWjqJ09ynG4VSKCKr073LkSbsZ5qvvzQKJ74mQO80iZG6Vq7bnA7zg21Rf4i9bepYPX7mp8OyinmYDcV66LX0=</Sign>
+  </Feature>
+  <Feature>
+    <Name>Erasure Coding</Name>
+    <DFP>*</DFP>
+    <Attribution>
+      <Time>300</Time>
+      <Mode>1+3</Mode>
+    </Attribution>
+    <Comment>*</Comment>
+    <Sign>b3Wu/vKkjGrFYY3jMKxbNkImw42qS+GgsnK2pOq6NxrJQYojgyb8Dv8i6fqs5afYkh5fikuvNr7vOHUXoCGoPPZejcalOmGdw96wWtY/voxQo81V7MQvd1Mpk8yH3XWxMw/4NvBlRTqfdnLGBKLG3dnNKZ59WHBYE4Z53Hr7Gww=</Sign>
+  </Feature>
+  <Feature>
+    <Name>Hybrid</Name>
+    <DFP>*</DFP>
+    <Attribution>
+      <Time>300</Time>
+      <Cluster>1</Cluster>
+    </Attribution>
+    <Comment>*</Comment>
+    <Sign>RZDfjAQYlrVbN/+CZZLsKkvLj/O14luqUJf+lQyc/y78q/+PolIJos9Ud1HezuBFaEW7/1CYhbkQ4fclgexgQaBJGxZTagEgxmPOBDwgNXDv2MyXgdtst7wC1wz8bTAjENay/K4RU+OAqmsgCpxkjPUk8vhYMEJgnncLWolBP34=</Sign>
+  </Feature>
+  <Resource>
+    <Name>CPU</Name>
+    <DFP>*</DFP>
+    <Attribution>
+      <Number>123</Number>
+      <NumberPerSS>12</NumberPerSS>
+    </Attribution>
+    <Comment>lalall</Comment>
+    <Sign>AfJU2ZGR860PCp3bP99i4s04RnZJYiqqDNByZSy2hDp2dxnUE+DGbPPexs5/GtXSsGkiSprw5g3Iw9C94taJ2Eyt1sjIDkrKNjeEFTJ+0B+Jokt4m8hlq0gnlWu8d5tBUVqka/Icvx0bthTbXH2xX8kBtH9TnJrKgpA1WUzlQWE=</Sign>
+  </Resource>
+  <Resource>
+    <Name>Mem</Name>
+    <DFP>*</DFP>
+    <Attribution>
+      <Capacity>2341</Capacity>
+      <CapacityPerSS>13</CapacityPerSS>
+    </Attribution>
+    <Comment>hahahaha</Comment>
+    <Sign>W6tGRI/dRURmUy0z27/RymCm7kwG7Y61bGzk3Lkh97V+/cJSE4koBZFbVvjAaQSwD+dhJKs67OpVdsTqf8j8qQk8++qeziau7fiGvx7pAwhtIoolDYWuK3/47n7JEIOQEedvIqdVT1hJFtzrDJ7Rg5HTd96eHuZM5BpGDvGCiVU=</Sign>
+  </Resource>
+  <Resource>
+    <Name>Storage</Name>
+    <DFP>*</DFP>
+    <Attribution>
+      <Capacity>333333</Capacity>
+      <CapacityPerSS>232344</CapacityPerSS>
+      <CapacityPerPartition>133333</CapacityPerPartition>
+    </Attribution>
+    <Comment>lasdkjflaskjf</Comment>
+    <Sign>vu9DRghah/LgZ+ovwofbHVUdqxqnIaMpDk3AsjOx44tGbnD5++C9iDLYySgogfrTpjl7ETqkkXWJ/lOYMonH1hYtH+3uCWzcsajKN6o++VijwrYuCyzh97UJNy6gu99Nu72DTT/vjxU4cbfMDZwL5Ad59H7znOyMo+tJPbLlB2A=</Sign>
+  </Resource>
+</DataClouds>
